@@ -1,0 +1,8 @@
+**The RBI Ombudsman Scheme**
+The Reserve Bank Integrated Ombudsman Scheme is a grievance redressal mechanism for customers of financial institutions like banks and NBFCs. A customer can file a complaint with the RBI Ombudsman if they are not satisfied with the resolution provided by their lender or if the lender does not respond within 30 days. The Ombudsman's role is to resolve disputes in a fair and timely manner. This is the highest level of escalation for customer complaints.
+
+**Penal Charges vs. Penal Interest**
+As per recent RBI guidelines, lenders cannot charge "penal interest" on defaulted loan installments. This means they cannot add a punitive interest rate on top of the contracted rate for the period of default. Instead, they can only levy "penal charges," which must be a reasonable, fixed fee. These charges must be transparently disclosed in the loan agreement and cannot be used to increase the lender's revenue. This rule ensures that penalties for non-payment are not excessive.
+
+**Regulation of Credit Information Companies (CICs)**
+Credit Information Companies (CICs) in India, such as CIBIL, Experian, Equifax, and CRIF High Mark, are regulated by the RBI under the Credit Information Companies (Regulation) Act, 2005. This act ensures that the data collected by CICs is accurate, secure, and used fairly. It also gives consumers the right to access their own credit report and to raise disputes to correct any inaccuracies. Lenders are legally obligated to report all credit information to these CICs.
